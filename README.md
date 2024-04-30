@@ -1,5 +1,9 @@
 ### Hi everyone 👋
 
+Welcome to my MSc Cyber Security E-Portfolio 😀
+This e-portfolio summarises my journey while undergoing my MSc Cyber Security Programme
+
+
 <!--
 **igwechijioke/IgweChijioke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
